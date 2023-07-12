@@ -8,8 +8,8 @@
 __) (_|  (__) |/\____) |  | ) \ \_____) (___| (__/  )| (____/\
 \____/(_______)\_______)  |/   \__/\_______/(______/ (_______/
 
-Jogo feito por Daniel Tiepolo Kochinski e João Frederico Ritter Benvenutti, como forma de avaliacao
-na disciplina Computacao 1, ministrada pela Prof. Dra. Fabiany Lamboia, turma S21, 2015/2.
+Daniel Tiepolo Kochinski 
+
 
 **/
 
